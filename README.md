@@ -8,3 +8,7 @@ Borrowing heavily from Azure Blob Storage API, the following features are planne
 - garbage collecting for the deleted files
 - support for arbitrary metadata
 
+Future candidate features:
+- storage per user
+- quota per repository
+- 
