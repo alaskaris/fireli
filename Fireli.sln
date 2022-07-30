@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fireli", "Fireli\Fireli.csproj", "{337B95CD-4266-47C8-A150-2E303E7212CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{337B95CD-4266-47C8-A150-2E303E7212CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337B95CD-4266-47C8-A150-2E303E7212CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337B95CD-4266-47C8-A150-2E303E7212CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337B95CD-4266-47C8-A150-2E303E7212CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D1BC34A-971E-4CED-9879-6C9BD321472F}
+	EndGlobalSection
+EndGlobal
